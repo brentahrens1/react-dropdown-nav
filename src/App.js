@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <NavBar>
-        <NavItem icon="R" />
-        <NavItem icon="R" />
-        <NavItem icon="R" />
+        <NavItem icon="&#127758;" />
+        <NavItem icon="&#127765;" />
+        <NavItem icon="&#127796;" />
 
         <NavItem icon="&#8681;">
           <DropdownMenu />

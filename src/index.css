@@ -91,12 +91,12 @@ a {
   display: flex;
   align-items: center;
   border-radius: var(--border-radius);
-  transition: background var(--speed);
+  transition: background-color var(--speed);
   padding: 0.5rem;
 }
 
 .menu-item:hover {
-  background: #525357;
+  background-color: #525357;
 }
 
 .icon-right {
